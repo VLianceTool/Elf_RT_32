@@ -26,6 +26,7 @@
 	<Debugger>gdb/gdb_32.exe</Debugger>
 	<Sanitizer>DrMemory/bin/drmemory.exe</Sanitizer>
 
+	<gdb>gdb/gdb_32.exe</gdb>
 
 	<gcc>elf_tool/bin/i686-elf-gcc.exe</gcc>
 	<ld>elf_tool/bin/i686-elf-ld.exe</ld>
